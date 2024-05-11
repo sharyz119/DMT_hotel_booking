@@ -4,6 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.svm import SVR
 from sklearn.model_selection import GridSearchCV
+import pyltr
 
 
 #Definition of different models 
